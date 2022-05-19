@@ -1,2 +1,2 @@
 # holbertonschool-web_react
-webReact
+Repository for studying React
